@@ -21,6 +21,6 @@
 
 #### 炫酷的图表 🗺️
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineCommanderCN&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MineCommanderCN&layout=compact&theme=dark)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=MineCommanderCN&show_icons=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=MineCommanderCN&show_icons=true&locale=cn&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
