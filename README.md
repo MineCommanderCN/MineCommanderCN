@@ -4,7 +4,7 @@
 
 - 普通初中生；
 - Minecraft云玩家；
-- (知乎用户)[https://zhihu.com/people/MineCommander]；
+- [知乎用户](https://zhihu.com/people/MineCommander)；
 - .NET爱好者；
 - 音游玩家。
 
